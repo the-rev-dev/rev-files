@@ -1,0 +1,23 @@
+{
+  "name": "rev-file-parser",
+  "version": "0.0.1",
+  "description": "A configurable TypeScript class for parsing files.",
+  "author": "Timothy Ernst",
+  "license": "UNLICENSED",
+  "files": [
+    "build"
+  ],
+  "main": "./build/index.js",
+  "types": "./build/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "clean:npm": "shx rm -rf node_modules",
+    "clean:build": "shx rm -rf build",
+    "clean": "npm run clean:build && npm run clean:npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-rev-dev/rev-file-parser.git"
+  }
+}
