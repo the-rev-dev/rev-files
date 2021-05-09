@@ -1,6 +1,6 @@
 {
   "name": "rev-file",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "TypeScript utitilies for writing and parsing files.",
   "author": "Timothy Ernst",
   "license": "UNLICENSED",
