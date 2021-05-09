@@ -1,7 +1,7 @@
 {
-  "name": "rev-file-parser",
+  "name": "rev-file",
   "version": "0.0.1",
-  "description": "A configurable TypeScript class for parsing files.",
+  "description": "TypeScript utitilies for writing and parsing files.",
   "author": "Timothy Ernst",
   "license": "UNLICENSED",
   "files": [
@@ -18,6 +18,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/the-rev-dev/rev-file-parser.git"
+    "url": "git+https://github.com/the-rev-dev/rev-files.git"
   }
 }
