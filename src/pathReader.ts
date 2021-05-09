@@ -1,5 +1,5 @@
 import fs from 'fs';
-import { logSection, SectionLogger } from './consoleWriter';
+import { logSection, SectionLogger } from 'rev-logs';
 
 interface PathReaderProps {
     path: string;
