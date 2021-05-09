@@ -1,7 +1,7 @@
 {
   "name": "rev-files",
   "version": "0.0.4",
-  "description": "TypeScript library to facilitate accessing file paths, parsing file content, and writing to files",
+  "description": "TypeScript library to facilitate path navigation and file writing/parsing.",
   "author": "Timothy Ernst",
   "license": "UNLICENSED",
   "files": [
